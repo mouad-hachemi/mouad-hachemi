@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mouad-hachemi
+- 👋 Hi, I’m Mouad Hachemi
 - 👀 I’m interested in Game Development with Python and Free softwares
 - 🌱 I’m currently learning Pygame
 - 💞️ I’m looking to collaborate on Open source projects
